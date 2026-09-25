@@ -1,0 +1,9 @@
+    .image {
+        height: 200px;
+        background: #aaa;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-weight: 500;
+    }
